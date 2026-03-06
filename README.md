@@ -1,4 +1,4 @@
-## DESAFIO-QA-BEEDOO-2026
+# DESAFIO-QA-BEEDOO-2026
 
 # Objetivo da aplicação: 
 - Plataforma de cadastramento de cursos
