@@ -26,7 +26,7 @@ Identifiquei os seguintes pontos como os mais vitais para garantir a qualidade d
 ## 4. Documentação de Testes (Planilha)
 Acesse o planejamento completo, incluindo Cenários de Teste, Casos de Teste (TC) e Relatórios de Erros (BUGs), no link abaixo:
 
-[Link para a Planilha do Google Sheets]: https://docs.google.com/spreadsheets/d/1mW2hnzqK0_HNqApEXoqEELVaFSFXLPqcFhSQXtXXsHY/edit?usp=sharing
+Link para a Planilha do Google Sheets: [https://docs.google.com/spreadsheets/d/1mW2hnzqK0_HNqApEXoqEELVaFSFXLPqcFhSQXtXXsHY/edit?usp=sharing]
 
 ## 5. Evidências de Execução
 Todos os prints e gravações de tela que comprovam os testes realizados e os bugs encontrados estão organizados na pasta compartilhada:
