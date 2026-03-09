@@ -26,12 +26,12 @@ Identifiquei os seguintes pontos como os mais vitais para garantir a qualidade d
 ## 4. Documentação de Testes (Planilha)
 Acesse o planejamento completo, incluindo Cenários de Teste, Casos de Teste (TC) e Relatórios de Erros (BUGs), no link abaixo:
 
-Link para a Planilha do Google Sheets: [https://docs.google.com/spreadsheets/d/1mW2hnzqK0_HNqApEXoqEELVaFSFXLPqcFhSQXtXXsHY/edit?usp=sharing]
+[https://docs.google.com/spreadsheets/d/1mW2hnzqK0_HNqApEXoqEELVaFSFXLPqcFhSQXtXXsHY/edit?usp=sharing]
 
 ## 5. Evidências de Execução
 Todos os prints e gravações de tela que comprovam os testes realizados e os bugs encontrados estão organizados na pasta compartilhada:
 
-[Link para o Google Drive / Pasta de Evidências]: https://drive.google.com/drive/folders/1ot3G8H-C9UYuyZeZ329w02r_dzc5fQAD?usp=sharing
+[https://drive.google.com/drive/folders/1ot3G8H-C9UYuyZeZ329w02r_dzc5fQAD?usp=sharing]
 
 ## 6. Resumo de Bugs Encontrados
 Durante o ciclo de testes, foram registrados 6 bugs, sendo os principais:
